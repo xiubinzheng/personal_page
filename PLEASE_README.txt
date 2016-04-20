@@ -1,0 +1,1 @@
+This Sam's Used Cars website shows an example in chapter 17 (Responsive Images,Image Thumbnails,Image With Captions)
