@@ -5,11 +5,8 @@
 
 
     <!-- Bootstrap core CSS -->
-<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
 <?php include 'imports.php'?>
-<link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
+
 <style>
 .caption{
 	
@@ -19,16 +16,20 @@
   </head>
 
   <body>
+      <?php include "header.php";?>
      
 <div class="container">
-
- <?php include "header.php";?>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
       <div class="row">
         <div class="col-xs-12">
           <div id="photo-header" class="text-center">
             <!-- PHOTO (AVATAR) -->
             <div id="photo">
-              <img src="img/avatar.jpg" alt="avatar">
+              <img src="img/Hawkeye.png" alt="avatar">
             </div>
             <div id="text-header">
               <h1>Hello,<br> my name is <span>Kamil</span><sup>24yo</sup> and this is my resume/cv</h1>
@@ -77,8 +78,7 @@
               </li>
             </ul>
           </div>
-          <!-- EXPERIENCES -->
-          <div class="box">
+         <div class="box">
             <h2>Experiences</h2>
             <div class="job clearfix">
               <div class="col-xs-3">
@@ -91,6 +91,26 @@
               </div>
             </div>
             <div class="job clearfix">
+              <div class="col-xs-3">
+                <div class="where">Twitter</div>
+                <div class="year">2012</div>
+              </div>
+              <div class="col-xs-9">
+                <div class="profession">Web Developer</div>
+                <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, nihil sit nemo voluptatem praesentium. Quia, qui facere consectetur libero asperiores fugiat consequuntur deserunt culpa repudiandae sed quidem voluptas explicabo soluta.</div>
+              </div>
+            </div>
+              <div class="job clearfix">
+              <div class="col-xs-3">
+                <div class="where">Twitter</div>
+                <div class="year">2012</div>
+              </div>
+              <div class="col-xs-9">
+                <div class="profession">Web Developer</div>
+                <div class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, nihil sit nemo voluptatem praesentium. Quia, qui facere consectetur libero asperiores fugiat consequuntur deserunt culpa repudiandae sed quidem voluptas explicabo soluta.</div>
+              </div>
+            </div>
+              <div class="job clearfix">
               <div class="col-xs-3">
                 <div class="where">Twitter</div>
                 <div class="year">2012</div>
@@ -174,10 +194,6 @@
     <!-- SCRIPTS -->
     <script src="js/scripts.js"></script>
   </body>
-
-
-
-    
 </html>
     
   

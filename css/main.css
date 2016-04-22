@@ -19,7 +19,7 @@ SETTINGS
 BODY
 *******************************************/
 body{
-  font-family: 'Open Sans', Arial, Tahoma;
+  font-family: 'Quicksand', Arial, Tahoma;
   font-weight: 400;
   font-size: 1em;
   color: #363636;
@@ -32,7 +32,7 @@ CONTAINER
   margin-top: 80px;
   margin-bottom: 15px;
   background: #fff;
-}
+} 
 /*******************************************
 PHOTO (AVATAR)
 *******************************************/

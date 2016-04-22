@@ -6,11 +6,9 @@
 
     <!-- Bootstrap core CSS -->
      <!-- Custom styles for this template -->
-     
-<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
-
 <?php include 'imports.php'?>
-
+<!-- <link href="css/main.css" rel="stylesheet">
+ -->
 
 <style>
 .caption{
@@ -21,9 +19,9 @@
   </head>
 
   <body>
-
+ <?php include "header.php";?>
     <div class="container">
-      <?php include "header.php";?>
+     
 <!--
   change this to a slider to display my personal pictures
  <img  src="img/2.jpg" class="img-responsive" alt="" width="940" style="height:390px;"> -->
@@ -71,6 +69,8 @@
       <li><a href="#">Edward salvin</a></li>
     </ul>
         </div>
+        
+        
         
         
   <!-- <div class="col-md-5">

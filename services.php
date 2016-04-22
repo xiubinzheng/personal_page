@@ -4,7 +4,7 @@
 <title></title>
 
     <!-- Bootstrap core CSS -->
-<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+<?php include 'imports.php'?>
 
   </head>
 
