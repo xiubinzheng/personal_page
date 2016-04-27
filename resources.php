@@ -22,9 +22,8 @@
  <?php include "header.php";?>
     <div class="container">
      
-<!--
-  change this to a slider to display my personal pictures
- <img  src="img/2.jpg" class="img-responsive" alt="" width="940" style="height:390px;"> -->
+
+ <img  src="img/2.jpg" class="img-responsive" alt="" width="940" style="height:390px;"> 
 
   <br />    
 
@@ -50,7 +49,7 @@
 
 <h2>Approved Resources</h2>
 <div class="row">
-        <div class="col-md-5">
+        <div class="col-md-4">
             <h3>useful websites</h3>
     <ul class="footer_links">
       <li><a href="https://www.quora.com/">quora</a></li>
@@ -60,7 +59,7 @@
     </ul>
         </div>
         
-        <div class="col-md-5">
+        <div class="col-md-4">
           <h3>book recommendations</h3>
     <ul class="footer_links">
       <li><a href="#">Gorellia Mindset</a></li>
@@ -70,15 +69,23 @@
     </ul>
         </div>
         
-        
-        
-        
+        <div class="col-md-4">
+          <h3>useful apps</h3>
+    <ul class="footer_links">
+      <li><a href="#">Gorellia Mindset</a></li>
+      <li><a href="#">how to win friend and </a></li>
+      <li><a href="#">Think and grow rich</a></li>
+      <li><a href="#">Edward salvin</a></li>
+    </ul>
+        </div>
   <!-- <div class="col-md-5">
      <h3>Socialize</h3>
     <a href="#"><img src="img/icon_fb.png" alt=""></a> <a href="#"><img src="img/icon_twitter.png" alt=""></a> <a href="#"> <img src="img/icon_in.png" alt=""></a> 
   </div> -->
   
  </div>
+ 
+ 
 
 
 
