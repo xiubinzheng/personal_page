@@ -24,7 +24,7 @@
 				<div id="photo-header" class="text-center">
 					<!-- PHOTO (AVATAR) -->
 					<div id="photo">
-						<img src="img/suit_headshot.jpg" alt="avatar">
+						<img src="img/suit_headshot.jpg">
 					</div>
 					<div id="text-header">
 						<h1>
@@ -144,13 +144,19 @@
 				<div class="box clearfix">
 					<h2>Contact</h2>
 					<div class="contact-item">
-						<h4>Phone: <span class="info"> 2678157599</span></h4>
+						<h4>
+							Phone: <span class="info"> 267-815-7599</span>
+						</h4>
 					</div>
 					<div class="contact-item">
-						<h4>email: <span class="info"> xiubin.zheng7@gmail.com</span></h4>
+						<h4>
+							email: <span class="info"> xiubin.zheng7@gmail.com</span>
+						</h4>
 					</div>
 					<div class="contact-item">
-					<h4>Twitter: <span class="info"> https://twitter.com/xzheng011</span></h4>
+						<h4>
+							Twitter: <span class="info"> https://twitter.com/xzheng011</span>
+						</h4>
 					</div>
 				</div>
 
@@ -210,12 +216,8 @@
 	</div>
     
     <?php include 'footer.php'; ?>
-    <!-- JQUERY -->
-	<script src="js/jquery.min.js"></script>
-	<!-- BOOTSTRAP -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- SCRIPTS -->
-	<script src="js/scripts.js"></script>
+    	 <?php include 'imports_bottom.php'; ?>
+				
 </body>
 </html>
 
