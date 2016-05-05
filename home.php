@@ -28,8 +28,7 @@
 					</div>
 					<div id="text-header">
 						<h1>
-							Hello,<br> my name is <span>Xiubin Zheng</span> and this is my
-							personal website/resume
+							Hi,<br> I am <span>Xiubin (Ben) Zheng</span>. Welcome.
 						</h1>
 						<br>
 						<button type="button" onclick="location.href='getResume.php'">Download
@@ -43,7 +42,7 @@
 				<!-- ABOUT ME -->
 				<div class="box">
 					<h2>About Me</h2>
-					<p>I am a software developer based out of Philadelphia,PA.</p>
+					<p>I am a software developer based in Philadelphia,PA.</p>
 				</div>
 				<!-- EDUCATION -->
 				<div class="box">
@@ -54,7 +53,6 @@
 							<div class="year pull-left">2011</div>
 							<div class="description pull-right">
 								<h3>Bachelor of Science in Computer Science</h3>
-								<p>graduated with honor.</p>
 							</div>
 						</li>
 					</ul>
@@ -71,17 +69,17 @@
 							<div class="description">
 								<ul>
 									<li>Led the design and implementation of company E-commerce
-										solutions from the grounds up</li>
+										solutions from the ground up</li>
 									<li>Analyzed different technology and explored development
 										strategies, successfully increased development speed by 30
 										percent</li>
 									<li>developed a user registration system for the entire company
 										customer base</li>
-									<li>Received needs and translated requirements directly from
+									<li>Interpreted requirements directly from
 										director of sales</li>
 									<li>created a group management system that allows the user to
 										edit the user hierarchy via the user interface</li>
-									<li>Technologies used: PHP, Java, JavaScript, Jquery, CSS,
+									<li>Technology Used: PHP, Java, JavaScript, Jquery, CSS,
 										HTML, LDAP, Postresql</li>
 								</ul>
 							</div>
@@ -106,9 +104,9 @@
 										increase</li>
 									<li>Received needs and translated requirements directly from
 										director of sales</li>
-									<li>Oversaw Quality Assurance for website with visibility to a
+									<li>Oversaw quality assurance for website with visibility to a
 										large user base with upwards of 10 thousand global users</li>
-									<li>Technologies used: Java, Java/EE Javascript, Jquery,
+									<li>Technology Used: Java, Java/EE Javascript, Jquery,
 										Mybatis, Oracle, Struts MVC</li>
 								</ul>
 							</div>
@@ -125,13 +123,13 @@
 							<div class="profession">Web and Media Designer</div>
 							<div class="description">
 								<ul>
-									<li>Built a Real Estate marketing website that allowed the
+									<li>Built a real estate marketing website that allowed the
 										company CEO to demo property photography and personal
 										marketing materials, resulting in an increase of productivity
 										and web presence</li>
 									<li>Shot and edited Real Estate photography for marketing
 										brochures</li>
-									<li>Technologies used: HTML, CSS, JavaScript, Dreamweaver</li>
+									<li>Technology Used: HTML, CSS, JavaScript, Dreamweaver</li>
 								</ul>
 							</div>
 
@@ -143,19 +141,27 @@
 				<!-- CONTACT -->
 				<div class="box clearfix">
 					<h2>Contact</h2>
+					<!-- <div class="contact-item">
+						<h4>
+							Phone: <span class="info"> </span>
+						</h4>
+					</div> -->
 					<div class="contact-item">
 						<h4>
-							Phone: <span class="info"> 267-815-7599</span>
+							email: <span class="info"><a href="xiubin.zheng7@gmail.com">xiubin.zheng7@gmail.com</a></span>
 						</h4>
 					</div>
 					<div class="contact-item">
 						<h4>
-							email: <span class="info"> xiubin.zheng7@gmail.com</span>
+							Twitter: <span class="info"> <a
+								href="https://twitter.com/xzheng011">https://twitter.com/xzheng011</a></span>
 						</h4>
 					</div>
 					<div class="contact-item">
 						<h4>
-							Twitter: <span class="info"> https://twitter.com/xzheng011</span>
+							github: <span class="info"> <a
+								href="https://github.com/xiubinzheng/xiubinzheng.com">
+									https://github.com/xiubinzheng/xiubinzheng.com</a></span>
 						</h4>
 					</div>
 				</div>
@@ -164,13 +170,13 @@
 				<div class="box">
 					<h2>Skills</h2>
 					<div class="skills">
-						<div class="item-skills" data-percent="1.00">Java</div>
+						<div class="item-skills" data-percent="0.90">Java</div>
 						<div class="item-skills" data-percent="0.75">PHP</div>
 						<div class="item-skills" data-percent="0.75">Oracle</div>
 						<div class="item-skills" data-percent="0.50">Postgresql</div>
 						<div class="item-skills" data-percent="0.50">mySQL</div>
-						<div class="item-skills" data-percent="0.90">CSS</div>
-						<div class="item-skills" data-percent="0.80">jQuery</div>
+						<div class="item-skills" data-percent="0.70">CSS</div>
+						<div class="item-skills" data-percent="0.80">JQuery</div>
 						<div class="skills-legend clearfix">
 							<div class="legend-left legend">Beginner</div>
 							<div class="legend-left legend">
@@ -216,7 +222,7 @@
 	</div>
     
     <?php include 'footer.php'; ?>
-    	 <?php include 'imports_bottom.php'; ?>
+    	 
 				
 </body>
 </html>

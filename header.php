@@ -8,15 +8,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Bens Home Page</a>
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a href="home.php">Home</a></li>
-				<li><a href="resources.php">Approved Resources</a> </li>
+              <li><a href="home.php"><font>Home</font></a></li>
+				<li><a href="resources.php"><font>Approved Resources</font></a> </li>
 					<!-- <li><a href="services.php">Services</a></li>
  				<li><a href="galleries.php">Galleries</a></li> -->
-  			<li><a href="contact.php">Contact</a></li>
+  			<li><a href="contact.php"><font>Message Me</font></a></li>
             </ul>
      
           </div><!--/.nav-collapse -->
